@@ -1,1 +1,3 @@
-password generator made in bash
+password generator
+
+
